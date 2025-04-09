@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+body{
+    background-color: #f4f4f4;
+    font-family: "Lilita One", sans-serif;
+}
+section{
+    max-width: 1900px;
+    margin: 0 auto;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+.logotipo img{
+    width: 200px;
+    border-radius: 20px;
+}
+.logotipo{
+    float:left;
+}
+ .menu li a{
+    color: black;
+    text-decoration: none;
+
+}
+.menu li a:hover{
+    color: #444;
+}
+.menu{
+    padding-top:  20px;
+}
+.slider img{
+    width: 100%;
+    height: 650px;
+}
+header{
+    padding: 10px 0;
+    height: 100px;
+}
+.item{
+    background-color: #fff;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    margin: 10px 10px;
+}
+.descricao{
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #444;
+}
+a{
+    text-decoration: none;
+}
+footer div{
+    width: 33%;
+    display: inline-block;
+}
+footer inframe{
+    width: 100%!important;
+}
+footer{
+    background-color: #444;
+}
+footer input{
+    width: 90%;
+    height: 40px;
+    margin: 10px;
+
+}
+contato{
+    font-size: 20px;
+    padding: 10px;
+}
+p{
+    width: 90%;
+    height: 40px;
+    margin: 10px;
+    color: #fff;
+}
+
+
+
